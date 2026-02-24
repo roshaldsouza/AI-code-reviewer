@@ -13,7 +13,7 @@ An automated GitHub Pull Request review bot powered by free LLMs (Groq + Gemini 
 > Bot automatically reviews a PR and posts inline comments with severity labels
 
 <!-- Add screenshot here after first successful PR review -->
-![Demo Screenshot](docs/demo.png)
+![Demo Screenshot](screenshots/demo.png)
 
 ---
 
@@ -184,3 +184,4 @@ MIT License — feel free to use, modify, and distribute.
 
 Built by Roshal Dsouza(https://github.com/roshaldsouza) as a portfolio project.  
 Feel free to open issues or PRs!
+
